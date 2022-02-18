@@ -1,6 +1,11 @@
 import React from 'react';
+import sampleQuotes from './quotes';
 
 class App extends React.Component {
+
+  state = {
+    quotes:sampleQuotes
+  }
 
   render() {
 
