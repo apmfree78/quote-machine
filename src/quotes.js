@@ -20,8 +20,7 @@ const quotation = {
 
   quote4: {
     author: "Richard P. Feynman",
-    quote:
-      "A great deal more is known than has been proved.",
+    quote: "A great deal more is known than has been proved.",
   },
 
   quote5: {
@@ -43,15 +42,14 @@ const quotation = {
 
   quote8: {
     author: "Albert Einstein",
-    quote:
-      "I have no special talent. I am only passionately curious.",
+    quote: "I have no special talent. I am only passionately curious.",
   },
 
   quote9: {
     author: "Nikola Tesla",
     quote:
       "Our virtues and our failures are inseparable, like force and matter. When they separate, man is no more.",
-  }
+  },
 };
 
 export default quotation;
